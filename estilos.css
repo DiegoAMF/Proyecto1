@@ -1,0 +1,36 @@
+h1{color:dodgerblue; font-size: 50px;}
+h2{color:blue; font-size: 40px;}
+h3{color:gray; font-size: 40px;}
+h4{color:green; font-size: 40px;}
+header {
+    background-color:steelblue;
+    color:white;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 50px;
+}
+p1 {
+    color: cornflowerblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p {
+    color:cornflowerblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2 {
+    background-color:firebrick;
+    text-align: center;
+}
+h3 {
+    background-color:darkblue;
+    text-align: center;
+}
+h4 {
+    background-color: purple;
+    text-align: center;
+}
+img {
+    margin: auto;
+    display: block;
+}
